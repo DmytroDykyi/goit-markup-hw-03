@@ -43,10 +43,13 @@ body {
 
 /* header of site */
 
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .header-container {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #e7e9fc;
 }
 
 .header-nav {
@@ -118,7 +121,7 @@ body {
 
 /* body */
 
-.main-content {
+.main-content-containerh3d6 {
   background-color: #2e2f42;
   display: flex;
   align-items: center;
@@ -329,7 +332,7 @@ body {
   gap: 16px;
 }
 
-.logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
